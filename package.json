@@ -1,0 +1,35 @@
+{
+  "name": "linux-font",
+  "version": "1.0.0",
+  "description": "An icon font providing popular linux distro's logos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matriphe/font-linux.git"
+  },
+  "keywords": [
+    "linux",
+    "icon",
+    "distro",
+    "ubuntu",
+    "centos",
+    "arch",
+    "debian",
+    "fedora",
+    "mint",
+    "mandriva",
+    "opensuse",
+    "redhat",
+    "slackware",
+    "mageia"
+  ],
+  "author": "Muhammad Zamroni <halo@matriphe.com> (https://matriphe.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matriphe/font-linux/issues"
+  },
+  "homepage": "https://github.com/matriphe/font-linux#readme"
+}
