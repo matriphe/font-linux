@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "font-linux";
-  src: url("./font-linux.eot");
-  src: url("./font-linux.eot?#iefix") format("embedded-opentype"),
-       url("./font-linux.woff") format("woff"),
-       url("./font-linux.ttf") format("truetype"),
-       url("./font-linux.svg#font-linux") format("svg");
+  src: url("../fonts/font-linux.eot");
+  src: url("../fonts/font-linux.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/font-linux.woff") format("woff"),
+       url("../fonts/font-linux.ttf") format("truetype"),
+       url("../fonts/font-linux.svg#font-linux") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "font-linux";
-    src: url("./font-linux.svg#font-linux") format("svg");
+    src: url("../fonts/font-linux.svg#font-linux") format("svg");
   }
 }
 
