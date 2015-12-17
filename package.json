@@ -1,6 +1,6 @@
 {
   "name": "linux-font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An icon font providing popular linux distro's logos",
   "main": "index.js",
   "scripts": {
