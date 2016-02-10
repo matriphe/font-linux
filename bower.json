@@ -1,0 +1,36 @@
+{
+  "name": "linux-font",
+  "description": "An icon font providing popular linux distro's logos",
+  "main": "index.js",
+  "authors": [
+    "Muhammad Zamroni <halo@matriphe.com> (https://matriphe.com)"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "linux",
+    "icon",
+    "distro",
+    "ubuntu",
+    "centos",
+    "arch",
+    "debian",
+    "fedora",
+    "mint",
+    "mandriva",
+    "opensuse",
+    "redhat",
+    "slackware",
+    "mageia"
+  ],
+  "homepage": "https://github.com/matriphe/font-linux",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
